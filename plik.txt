@@ -1,2 +1,3 @@
 Hello World!
-To nowa linia z fix'a
+mod w branchu dev 
+
